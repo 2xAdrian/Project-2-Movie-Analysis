@@ -27,6 +27,30 @@ Files: `im.db` and `bom.movie_gross.csv.gz`
 
 * IMDB: Contains information on movies, including titles, genres, directors, runtimes, and box office ratings.
 
-* Box Office Mojo: 
+* Box Office Mojo: Included movie titles, domestic gross, and foreign gross.
+
+#### Data Visualization
+
+   Top Performing Genres
+    ![download](https://github.com/user-attachments/assets/7baefc30-8508-4f03-9395-c71bb11ed1da)
+
+- The left chart is a representation of the top performing Genres by the Weighted Rating. Weighted rating was calculated using the number of votes and the average rating, equaling a Weighted Rating that can be graphed.
+- The right chart shows the Average Gross that a genre makes. The Average Gross is the average of the domestic and foreign gross.
+
+
+  Optimal Runtime
+  ![download](https://github.com/user-attachments/assets/7610c512-e28d-405f-b870-b253d6fd7d11)
+
+- Both graphs follow the same basis. We are using the Runtime as the variable, and we check the Weighted Rating and Average Gross depending on the Runtime of the movie.
+
+
+  Top Directors
+  ![download](https://github.com/user-attachments/assets/9f210733-9868-4fb7-91c9-6a998f4d8c4d)
+- This table shows the Directors with the heighest Weighted Rating, also how many movies they have done and what genres they specialize in.
+
+
+  ![download](https://github.com/user-attachments/assets/d8faeb8c-ff8d-43ce-a194-6647df437553)
+- This table shows the Directors with the highest Average Gross, also how many movies they have done and what genres they specialize in
+
 
 ## Conclusion

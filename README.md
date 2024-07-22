@@ -38,19 +38,24 @@ Files: `im.db` and `bom.movie_gross.csv.gz`
 - The right chart shows the Average Gross that a genre makes. The Average Gross is the average of the domestic and foreign gross.
 
 
-  Optimal Runtime
-  ![download](https://github.com/user-attachments/assets/7610c512-e28d-405f-b870-b253d6fd7d11)
+ Optimal Runtime
+![download](https://github.com/user-attachments/assets/7610c512-e28d-405f-b870-b253d6fd7d11)
 
 - Both graphs follow the same basis. We are using the Runtime as the variable, and we check the Weighted Rating and Average Gross depending on the Runtime of the movie.
 
 
-  Top Directors
-  ![download](https://github.com/user-attachments/assets/9f210733-9868-4fb7-91c9-6a998f4d8c4d)
+Top Directors
+![download](https://github.com/user-attachments/assets/9f210733-9868-4fb7-91c9-6a998f4d8c4d)
 - This table shows the Directors with the heighest Weighted Rating, also how many movies they have done and what genres they specialize in.
 
 
-  ![download](https://github.com/user-attachments/assets/d8faeb8c-ff8d-43ce-a194-6647df437553)
+![download](https://github.com/user-attachments/assets/d8faeb8c-ff8d-43ce-a194-6647df437553)
 - This table shows the Directors with the highest Average Gross, also how many movies they have done and what genres they specialize in
 
 
 ## Conclusion
+1. Sci-Fi and Animation both have the highest Weighted Rating and Average Gross
+2. The best Runtime is 165-179 minutes because it has the highest Weighted Rating and Average Gross
+3. The Russo Brothers have the highest Average Gross and Weighted Rating, but Christopher Nolan is the most consistent Director.
+
+Recommending collaborating with directors that specializes in Sci-Fi to replicate their success. For example, an optimal choice would be Christopher Nolan. Mr. Nolan has 4 movies that specialized in Sci-Fi while all receiving the highest Weighted Rating. Limit him to about 170 minutes that engages the audience enough to receive the most box office returns.

@@ -3,9 +3,6 @@ Flatiron Data Science Project: Movie Data Analysis
 ## Overview
 Starting a Movie Studio is an important decision that follows with informed statistics and analytics. By analyzing various factors such as, genres, runtime, and directors, we will be able to identify trends that can contribute to the box office success that we are seeking. 
 
-### Interactive Dashboard Link:
-##### Below is the link to my Tableau which will show the different factors that would help in choosing the right movie.
-   * 
 
 ### Presentation Link
 ##### Below is the link to my Google Slides on my Non-Technical Presentation

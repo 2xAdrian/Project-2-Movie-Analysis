@@ -6,7 +6,7 @@ Starting a Movie Studio is an important decision that follows with informed stat
 
 ### Presentation Link
 ##### Below is the link to my Google Slides on my Non-Technical Presentation
-   * 
+   * https://docs.google.com/presentation/d/1DuvlKeooahgyHie_xrJjezCWuhtsEpYN0ShSgLQ_rF0/edit#slide=id.gd9c453428_0_16
 
 ## Business Understanding
 In order to ensure success of this new venture, my goal is to indetify potential issues so you the Movie Studio can make informed decisions as well as position yourself in a great place in the industry.
